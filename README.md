@@ -1,6 +1,6 @@
 # STATA Projects
 
-## The following are projects using STATA that also demonstrate my use of advanced regression analyses. 
+## The following are projects using STATA that also use advanced regression analyses. 
 
 ### ECON 423 Probit and Logit Exercise
 (https://github.com/calebewhite/STATA/blob/main/ECON423probitlogit.do)
