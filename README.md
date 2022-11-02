@@ -2,7 +2,7 @@
 
 ## The following are analyses I conducted using STATA that also incorporate advanced regression analysis. 
 
-### ECON 423 Probit and Logit Exercise
+### ECON423 Probit and Logit Exercise
 (https://github.com/calebewhite/STATA/blob/main/ECON423probitlogit.do)
 
 - Estimated probability models using probit and logit methods
